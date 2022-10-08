@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="Aula de Orientação a Objetos">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrientacaoObjetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula01/Aula01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula01/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula01/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/Bebidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/Fruta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/Quitanda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula02/Verdura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula02/Quitanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula02/Quitanda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +70,16 @@
       <updated>1665007711774</updated>
       <workItem from="1665007716060" duration="5564000" />
       <workItem from="1665105468935" duration="156000" />
-      <workItem from="1665180732591" duration="6883000" />
+      <workItem from="1665180732591" duration="7215000" />
     </task>
+    <task id="LOCAL-00001" summary="Aula de Orientação a Objetos">
+      <created>1665188517226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665188517226</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +90,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

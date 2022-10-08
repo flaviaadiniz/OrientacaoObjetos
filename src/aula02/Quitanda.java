@@ -68,6 +68,7 @@ public class Quitanda {
         coquinha.preco = 2.00;
         coquinha.imprimir();
 
+        System.out.println("FIM");
 
     }
 
