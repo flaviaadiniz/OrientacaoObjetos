@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="Aula de Orientação a Objetos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exerciciocarros/CarroCorrida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciocarros/CarroCorrida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exerciciocarros/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciocarros/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exerciciocarros/Piloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciocarros/Piloto.java" afterDir="false" />
+    <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="Aula de Orientação a Objetos - exercício encapsulamento">
+      <change beforePath="$PROJECT_DIR$/src/exerciciocarros/Genero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciocarros/Genero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -94,7 +90,7 @@
       <workItem from="1665788708370" duration="2789000" />
       <workItem from="1666044277703" duration="11445000" />
       <workItem from="1666218359206" duration="1306000" />
-      <workItem from="1666378921482" duration="13276000" />
+      <workItem from="1666378921482" duration="13618000" />
     </task>
     <task id="LOCAL-00001" summary="Aula de Orientação a Objetos">
       <created>1665188517226</created>
@@ -124,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666401570049</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aula de Orientação a Objetos - exercício encapsulamento">
+      <created>1666620145406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666620145406</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aula de Orientação a Objetos - exercício encapsulamento">
+      <created>1666620220370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666620220370</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula de Orientação a Objetos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula de Orientação a Objetos" />
+    <MESSAGE value="Aula de Orientação a Objetos - exercício encapsulamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula de Orientação a Objetos - exercício encapsulamento" />
   </component>
 </project>
