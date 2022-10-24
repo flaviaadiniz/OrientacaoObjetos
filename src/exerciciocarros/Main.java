@@ -23,13 +23,13 @@ public class Main {
         System.out.println("* CARROS *");
         System.out.println("----------");
 
-        CarroCorrida carro1 = new CarroCorrida(12345, piloto1, 120, 0, false);
+        CarroCorrida carro1 = new CarroCorrida(1, piloto1, 120, 0, false);
         System.out.println(carro1);
 
-        CarroCorrida carro2 = new CarroCorrida(54321, piloto2, 110, 0, false);
+        CarroCorrida carro2 = new CarroCorrida(2, piloto2, 110, 0, false);
         System.out.println(carro2);
 
-        CarroCorrida carro3 = new CarroCorrida(27277, piloto3, 100, 0, false);
+        CarroCorrida carro3 = new CarroCorrida(3, piloto3, 100, 0, false);
         System.out.println(carro3);
 
         System.out.println("");
@@ -41,6 +41,25 @@ public class Main {
         carro1.Parar();
         carro1.Desligar();
 
+        System.out.println("");
+
+        carro2.Ligar();
+        carro2.Acelerar(100);
+        carro2.setVelocidadeAtual(120);
+        carro2.setVelocidadeAtual(110);
+        carro2.Frear(80);
+        carro2.Parar();
+        carro2.Desligar();
+
+        System.out.println("");
+
+        carro3.Ligar();
+        carro3.Acelerar(100);
+        carro3.setVelocidadeAtual(130);
+        carro3.Frear(50);
+        carro3.Desligar();
+        carro3.setVelocidadeAtual(0);
+        carro3.Desligar();
 
 
 

@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="Aula de Orientação a Objetos">
-      <change afterPath="$PROJECT_DIR$/src/aula03/Clients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula03/PetShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula03/Schedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/Agencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula06/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula06/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula06/ExercicioHeranca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula06/Mamifero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciciocarros/CarroCorrida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciciocarros/Genero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciciocarros/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciciocarros/Piloto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciciocarros/CarroCorrida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciocarros/CarroCorrida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciciocarros/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciocarros/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciciocarros/Piloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciocarros/Piloto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Aula01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula01.Aula01" />
@@ -104,7 +94,7 @@
       <workItem from="1665788708370" duration="2789000" />
       <workItem from="1666044277703" duration="11445000" />
       <workItem from="1666218359206" duration="1306000" />
-      <workItem from="1666378921482" duration="10419000" />
+      <workItem from="1666378921482" duration="13276000" />
     </task>
     <task id="LOCAL-00001" summary="Aula de Orientação a Objetos">
       <created>1665188517226</created>
@@ -127,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665188876520</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aula de Orientação a Objetos">
+      <created>1666401570049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666401570049</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

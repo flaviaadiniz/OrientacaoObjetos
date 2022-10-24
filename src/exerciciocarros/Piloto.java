@@ -59,11 +59,11 @@ public class Piloto {
 
     @Override
     public String toString() {
-        return "Piloto[" +
-                "nome: '" + nome + '\'' +
-                ", idade: " + idade +
-                ", genero: " + genero +
-                ", equipe: '" + equipe + '\'' +
+        return "Piloto [" +
+                "Nome: '" + nome + '\'' +
+                " | Idade: " + idade +
+                " | Gênero: " + genero +
+                " | Equipe: '" + equipe + '\'' +
                 ']';
     }
 }

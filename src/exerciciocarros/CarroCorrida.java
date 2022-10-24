@@ -135,12 +135,12 @@ public class CarroCorrida {
 
     @Override
     public String toString() {
-        return "CarroCorrida[" +
-                "numeroCarro: " + numeroCarro +
-                ", piloto: " + piloto.getNome() +
-                ", velocidadeMaxima: " + velocidadeMaxima +
-                ", velocidadeAtual: " + velocidadeAtual +
-                ", ligado: " + ligado +
+        return "CarroCorrida [" +
+                "Número do Carro: " + numeroCarro +
+                " | Piloto: " + piloto.getNome() +
+                " | Velocidade Máxima: " + velocidadeMaxima + "Km/h" +
+                " | Velocidade Atual: " + velocidadeAtual + "Km/h" +
+                " | Ligado? " + ligado +
                 ']';
     }
 }
