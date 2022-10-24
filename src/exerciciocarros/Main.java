@@ -60,18 +60,6 @@ public class Main {
         carro3.Desligar();
         carro3.setVelocidadeAtual(0);
         carro3.Desligar();
-
-
-
-
-
-        // System.out.println(piloto1.getEquipe());
-        // System.out.println(piloto2.getEquipe());
-        // piloto2.setEquipe("Ferrari");
-        // System.out.println(piloto2);
-
-
-
     }
 
 }
