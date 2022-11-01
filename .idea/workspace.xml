@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="Aula de Orientação a Objetos - exercício encapsulamento">
-      <change afterPath="$PROJECT_DIR$/src/aula07/Contribuinte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula07/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula07/PessoaJuridica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula07/TipoPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetofinal/Cd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetofinal/DoacaoMidia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetofinal/Dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetofinal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetofinal/Midia.java" afterDir="false" />
+    <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="Projeto Final - Orientação a Objetos I">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +95,7 @@
       <workItem from="1666649909626" duration="1196000" />
       <workItem from="1666816783162" duration="10457000" />
       <workItem from="1666992134571" duration="3612000" />
-      <workItem from="1667248844454" duration="9844000" />
+      <workItem from="1667248844454" duration="10238000" />
     </task>
     <task id="LOCAL-00001" summary="Aula de Orientação a Objetos">
       <created>1665188517226</created>
@@ -156,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666620337337</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Projeto Final - Orientação a Objetos I">
+      <created>1667265027243</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667265027243</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +179,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula de Orientação a Objetos" />
     <MESSAGE value="Aula de Orientação a Objetos - exercício encapsulamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula de Orientação a Objetos - exercício encapsulamento" />
+    <MESSAGE value="Projeto Final - Orientação a Objetos I" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto Final - Orientação a Objetos I" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
