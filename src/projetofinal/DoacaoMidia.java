@@ -49,7 +49,7 @@ public class DoacaoMidia {
     }
 
     public static void assistirFilme(Dvd dvd, boolean possuiLegenda, String idiomaLegenda) {
-        dvd.ligarLegenda(false, idiomaLegenda);
+        dvd.ligarLegenda(possuiLegenda, idiomaLegenda);
         dvd.setIdioma(idiomaLegenda);
         System.out.println("Assistindo " + dvd.getNome() + " com legendas em " + idiomaLegenda + ".");
     }
