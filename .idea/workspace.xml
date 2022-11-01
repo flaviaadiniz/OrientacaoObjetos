@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="Projeto Final - Orientação a Objetos I">
+    <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="deletei classe errada">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projetofinal/DoacaoMidia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projetofinal/DoacaoMidia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,7 @@
       <workItem from="1666649909626" duration="1196000" />
       <workItem from="1666816783162" duration="10457000" />
       <workItem from="1666992134571" duration="3612000" />
-      <workItem from="1667248844454" duration="10238000" />
+      <workItem from="1667248844454" duration="11716000" />
     </task>
     <task id="LOCAL-00001" summary="Aula de Orientação a Objetos">
       <created>1665188517226</created>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667265027243</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="deletei classe errada">
+      <created>1667265337518</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667265337518</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +188,8 @@
     <MESSAGE value="Aula de Orientação a Objetos" />
     <MESSAGE value="Aula de Orientação a Objetos - exercício encapsulamento" />
     <MESSAGE value="Projeto Final - Orientação a Objetos I" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projeto Final - Orientação a Objetos I" />
+    <MESSAGE value="deletei classe errada" />
+    <option name="LAST_COMMIT_MESSAGE" value="deletei classe errada" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

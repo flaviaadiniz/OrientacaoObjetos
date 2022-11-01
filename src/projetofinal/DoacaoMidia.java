@@ -28,7 +28,9 @@ public class DoacaoMidia {
         System.out.println(midiaAleatoria);
         midiaAleatoria.darPlay();
 
-        assistirFilme((Dvd) filme1, true, "PT-BR");
+        System.out.println(" ");
+
+        assistirFilme((Dvd) filme1, true, "Português");
 
     }
 
@@ -47,9 +49,9 @@ public class DoacaoMidia {
     }
 
     public static void assistirFilme(Dvd dvd, boolean possuiLegenda, String idiomaLegenda) {
-        dvd.ligarLegenda(false, "PT-BR");
-        dvd.setIdioma("PT-BR");
-        System.out.println("Assistindo " + dvd.getNome() + " em " + idiomaLegenda + ".");
+        dvd.ligarLegenda(false, idiomaLegenda);
+        dvd.setIdioma(idiomaLegenda);
+        System.out.println("Assistindo " + dvd.getNome() + " com legendas em " + idiomaLegenda + ".");
     }
 
 }
