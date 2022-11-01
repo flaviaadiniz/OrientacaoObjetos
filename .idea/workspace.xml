@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c97529c8-6ecf-416a-a528-564d45e118c0" name="Changes" comment="Aula de Orientação a Objetos - exercício encapsulamento">
-      <change beforePath="$PROJECT_DIR$/src/exerciciocarros/Genero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciocarros/Genero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07/Contribuinte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07/PessoaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07/PessoaJuridica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula07/TipoPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetofinal/Cd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetofinal/DoacaoMidia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetofinal/Dvd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetofinal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projetofinal/Midia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ffdin/IdeaProjects/OrientacaoObjetosII",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,7 +55,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RunManager">
@@ -90,7 +101,11 @@
       <workItem from="1665788708370" duration="2789000" />
       <workItem from="1666044277703" duration="11445000" />
       <workItem from="1666218359206" duration="1306000" />
-      <workItem from="1666378921482" duration="13618000" />
+      <workItem from="1666378921482" duration="13717000" />
+      <workItem from="1666649909626" duration="1196000" />
+      <workItem from="1666816783162" duration="10457000" />
+      <workItem from="1666992134571" duration="3612000" />
+      <workItem from="1667248844454" duration="9844000" />
     </task>
     <task id="LOCAL-00001" summary="Aula de Orientação a Objetos">
       <created>1665188517226</created>
@@ -134,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666620220370</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aula de Orientação a Objetos - exercício encapsulamento">
+      <created>1666620337337</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666620337337</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,5 +183,9 @@
     <MESSAGE value="Aula de Orientação a Objetos" />
     <MESSAGE value="Aula de Orientação a Objetos - exercício encapsulamento" />
     <option name="LAST_COMMIT_MESSAGE" value="Aula de Orientação a Objetos - exercício encapsulamento" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
